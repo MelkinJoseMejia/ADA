@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.ada.ada","l":"AdaApplication"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ada.ada.entity","l":"Producto"},{"p":"com.ada.ada.controller","l":"ProductoController"},{"p":"com.ada.ada.repository","l":"ProductoRepository"},{"p":"com.ada.ada.service","l":"ProductoService"}];updateSearchResults();
